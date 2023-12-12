@@ -66,9 +66,7 @@ body {
   background: -ms-linear-gradient(left, #117905, #00ff00);
   background: -moz-linear-gradient(left, #117905, #00ff00);
   background: -o-linear-gradient(left, #117905, #00ff00);
-  -webkit-background-clip: text;
-  -ms-background-clip: text;
-  -o-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   -ms-text-fill-color: transparent;
   -o-text-fill-color: transparent;
